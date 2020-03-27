@@ -1,3 +1,5 @@
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
 # Coronapp
 
 This application gives information about Covid-19 for Turkey and all around the world. <br />
