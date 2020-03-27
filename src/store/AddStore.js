@@ -7,11 +7,6 @@ import NavigationService from '../NavigationService';
 
 
 class AddStore{
-	@observable newsImage='';
-	@observable noticeImage='';
-	@observable userNoticeImage='';
-	@observable checkImage='';
-	@observable loading=false;
 
 
 	@action getDat(str) {
@@ -221,7 +216,7 @@ class AddStore{
 
 		const data={
 			time: new Date(),
-			detail:detail,
+			noticeDetail:detail,
 			imageLink:url,
 			time2:'',
 		};
