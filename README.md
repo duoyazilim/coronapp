@@ -8,6 +8,8 @@ Twitter:[@duoyazilim](https://www.twitter.com/duoyazilim) <br />
 Instagram:[@duoyazilim](https://www.instagram.com/duoyazilim) <br />
 Website: https://www.duoyazilim.com
 
+
+# Install
 Try the app
 
 ```
@@ -20,4 +22,12 @@ After the React-Native Version 0.60 react-native link is not recommended use yar
 ```
 $ yarn run pod
 ```
+Launch with Simulator
 
+```
+$ yarn ios
+```
+for android
+```
+$ yarn android
+```
