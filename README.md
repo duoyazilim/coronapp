@@ -10,12 +10,13 @@ Website: https://www.duoyazilim.com
 
 # Made With
 
-[React Native](https://reactnative.dev)
-[React Navigation](https://reactnavigation.org)
-[React Native Image Crop Picker](https://github.com/ivpusic/react-native-image-crop-picker)
-[mobx](https://github.com/mobxjs/mobx-react)
-[Firebase](https://firebase.google.com/)
-[React Native Firebase](https://rnfirebase.io/)
+[React Native](https://reactnative.dev)  <br />
+[React Navigation](https://reactnavigation.org)  <br />
+[React Native Image Crop Picker](https://github.com/ivpusic/react-native-image-crop-picker) <br />
+[mobx](https://github.com/mobxjs/mobx-react) <br />
+[Firebase](https://firebase.google.com/) <br />
+[React Native Firebase](https://rnfirebase.io/) <br />
+[React Native Push Notification](https://github.com/zo0r/react-native-push-notification) <br/>
 
 
 # Install
