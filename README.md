@@ -8,6 +8,15 @@ Twitter: [@duoyazilim](https://www.twitter.com/duoyazilim) <br />
 Instagram: [@duoyazilim](https://www.instagram.com/duoyazilim) <br />
 Website: https://www.duoyazilim.com
 
+# Made With
+
+[React Native](https://reactnative.dev)
+[React Navigation](https://reactnavigation.org)
+[React Native Image Crop Picker](https://github.com/ivpusic/react-native-image-crop-picker)
+[mobx](https://github.com/mobxjs/mobx-react)
+[Firebase](https://firebase.google.com/)
+[React Native Firebase](https://rnfirebase.io/)
+
 
 # Install
 Try the app
