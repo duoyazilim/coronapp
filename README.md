@@ -5,7 +5,7 @@ There are last news about Covid-19 and Cases,Deaths,Daily Cases and Daily Deaths
 And also it makes a social network between Coronapp users. <br />
 
 
-![Alt Text](./ezgif.com-video-to-gif.gif)
+![Ekran Kaydı](./src/RPReplay-Final1585332337.gif)
 
 
 Twitter: [@duoyazilim](https://www.twitter.com/duoyazilim) <br />
