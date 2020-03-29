@@ -40,8 +40,6 @@ Launch with Simulator
 
 ```
 $ yarn ios
-```
-for android
-```
+
 $ yarn android
 ```
